@@ -12,7 +12,7 @@ import Pages.LoginPage;
 import Utility.ExcelUtils1;
 
 @Listeners(Listener.TestListener.class)
-
+// Login test
 public class LoginTest extends BaseTest {
 
 	LoginPage loginPage; // Reference
